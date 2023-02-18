@@ -10,5 +10,6 @@ This portfolio website is a digital representation of my professional skills, ex
 
 VS Code Editor
 Any browser (As a Local host)
-Frontend coding
+Frontend coding.
+
 Visit my portfolio website : https://jayesh-rajput.netlify.app/
